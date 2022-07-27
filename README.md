@@ -2,7 +2,7 @@
 
 ## 1. Link and Preview
 
-Project link is available at [Contacts App](https://github.com/)
+Project link is available at [Contacts App](https://aligoknl.github.io/Contacts_App/public/index.html)
 
 ![Preview of Contacts App!](/public/images/app.GIF)
 
