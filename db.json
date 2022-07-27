@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "text": "Mike Brown",
+      "number": "3456789098",
+      "email": "mike@gmail.com",
+      "department": "Development",
+      "id": 3
+    },
+    {
+      "text": "John Doe ",
+      "number": "06234567876",
+      "email": "john@gmail.com",
+      "department": "Design",
+      "id": 4
+    },
+    {
+      "text": "Julia May ",
+      "number": "067890987678",
+      "email": "julia@gmail.com",
+      "department": "Marketing",
+      "id": 5
+    }
+  ]
+}
