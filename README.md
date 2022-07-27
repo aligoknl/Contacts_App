@@ -1,8 +1,6 @@
 # Contacts App
 
-## 1. Link and Preview
-
-Project link is available at [Contacts App](https://aligoknl.github.io/Contacts_App/public/index.html)
+## 1. Preview
 
 ![Preview of Contacts App!](/public/images/app.GIF)
 
